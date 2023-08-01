@@ -1,0 +1,12 @@
+{
+  "name": "Dagu4Motor",
+  "keywords": "",
+  "description": "Rover 5 motor driver",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/dekarma/Dagu4Motor-Library.git"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino"
+}
